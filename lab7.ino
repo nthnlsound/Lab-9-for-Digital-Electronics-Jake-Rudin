@@ -127,3 +127,8 @@ void setLed() {
         digitalWrite(ledPin, LOW);
     }  
 }
+
+void diaperMan(){
+  print("DIAPERMAN");
+}
+}
